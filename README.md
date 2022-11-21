@@ -1,5 +1,19 @@
 There are not a lot of vanilla icons in this game. So I've decided to add more :)
 
+# Done
+
+* Navigational
+     * -
+ * Flora
+     * Mushroom
+ * Mining
+     * -
+ * Sybmols
+     * -
+ * Animals
+     * -
+ * Items
+     * -
 # To Do
  
  * Navigational
@@ -8,7 +22,6 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Arrow Left
      * Arrow Right
  * Flora
-     * Mushroom
      * Tree
      * Apple
      * Pear
