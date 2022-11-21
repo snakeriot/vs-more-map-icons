@@ -33,8 +33,8 @@ namespace MoreMapIcons
             Matrix matrix = ctx.Matrix;
 
             ctx.Save();
-            float width = 400;
-            float height = 400;
+            float width = 330;
+            float height = 330;
             float scale = Math.Min(w / width, h / height);
             matrix.Translate(x + Math.Max(0, (w - width * scale) / 2), y + Math.Max(0, (h - height * scale) / 2));
             matrix.Scale(scale, scale);
