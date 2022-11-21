@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<LangVersion>7.2</LangVersion>
+		<TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<Reference Include="VintagestoryAPI">
+			<HintPath>$(VINTAGE_STORY)/VintagestoryAPI.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="VSSurvivalMod">
+			<HintPath>$(VINTAGE_STORY)/Mods/VSSurvivalMod.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="VSEssentials">
+			<HintPath>$(VINTAGE_STORY)/Mods/VSEssentials.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="VSCreativeMod">
+			<HintPath>$(VINTAGE_STORY)/Mods/VSCreativeMod.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Cairo">
+			<HintPath>$(VINTAGE_STORY)/Lib/cairo-sharp.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
+	
+	<ItemGroup Condition="'$(Configuration)' == 'Release'">
+		<None Include="UNLICENSE" CopyToOutputDirectory="PreserveNewest" />
+		<None Include="resources/**">
+			<Link>%(RecursiveDir)%(Filename)%(Extension)</Link>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	
+	<Target Name="Package" AfterTargets="PostBuildEvent" Condition="'$(Configuration)' == 'Release'">
+		<ZipDirectory DestinationFile="bin/$(TargetName).zip" SourceDirectory="$(TargetDir)" Overwrite="true" />
+	</Target>
+</Project>
