@@ -22,6 +22,7 @@ namespace MoreMapIcons
         {
             this._api = api;
             _icons = new Dictionary<string, Icon>();
+            // Flora icons
             _icons.Add("bush", new BushIcon());
             _icons.Add("treeOne", new TreeOneIcon());
             _icons.Add("treeTwo", new TreeTwoIcon());
@@ -29,6 +30,8 @@ namespace MoreMapIcons
             _icons.Add("apple", new AppleIcon());
             _icons.Add("pear", new PearIcon());
             _icons.Add("mushroom", new MushroomIcon());
+            // Misceleneous icons
+            _icons.Add("skull", new SkullIcon());
         }
 
         /**

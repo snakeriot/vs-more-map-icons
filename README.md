@@ -18,6 +18,8 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * -
  * Items
      * -
+ * Misceleneous
+     * Skull 
 
 # To Do
  
@@ -40,7 +42,6 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Question mark
  * Animals
      * Feather
-     * Skull
      * Volf head
  * Items
      * Anvil
