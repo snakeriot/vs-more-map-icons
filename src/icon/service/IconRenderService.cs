@@ -21,20 +21,20 @@ namespace MoreMapIcons
         **/
         public void Render(Icon icon, Context ctx, float x, float y, float w, float h, double[] rgba)
         {
-            Pattern pattern = InitializeContext(ctx, x, y, w, h, rgba);
+            Pattern pattern = InitializeContext(icon, ctx, x, y, w, h, rgba);
             icon.Render(ctx);
             DisposeContext(ctx, pattern);
         }
 
-        private Pattern InitializeContext(Context ctx, float x, float y, float w, float h, double[] rgba)
+        private Pattern InitializeContext(Icon icon, Context ctx, float x, float y, float w, float h, double[] rgba)
         {
             ctx.SetSourceRGBA(rgba);
             Pattern pattern = null;
             Matrix matrix = ctx.Matrix;
 
             ctx.Save();
-            float width = 330;
-            float height = 330;
+            float width = icon.getWidth();
+            float height = icon.getHeight();
             float scale = Math.Min(w / width, h / height);
             matrix.Translate(x + Math.Max(0, (w - width * scale) / 2), y + Math.Max(0, (h - height * scale) / 2));
             matrix.Scale(scale, scale);

@@ -23,6 +23,9 @@ namespace MoreMapIcons
             this._api = api;
             _icons = new Dictionary<string, Icon>();
             _icons.Add("mushroom", new MushroomIcon());
+            _icons.Add("treeOne", new TreeOneIcon());
+            _icons.Add("treeTwo", new TreeTwoIcon());
+            _icons.Add("treeThree", new TreeThreeIcon());
         }
 
         /**

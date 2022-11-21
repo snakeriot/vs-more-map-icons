@@ -7,6 +7,16 @@ namespace MoreMapIcons
      **/
     public class MushroomIcon : Icon
     {
+        public float getHeight()
+        {
+            return 330;
+        }
+
+        public float getWidth()
+        {
+            return 330;
+        }
+
         /**
         * Draw my shroom.
         *
