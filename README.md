@@ -9,6 +9,8 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Tree (3 variants)
      * Apple
      * Pear
+     * Cherry
+     * Strawberry
      * Mushroom
  * Mining
      * -
@@ -23,14 +25,7 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
 
 # To Do
  
- * Navigational
-     * Arrow Up
-     * Arrow Down
-     * Arrow Left
-     * Arrow Right
  * Flora
-     * Cherry
-     * Strawberry
      * Flower (variants)
  * Mining
      * Ingots
@@ -40,6 +35,10 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
  * Sybmols
      * Exclamation mark
      * Question mark
+     * Arrow Up
+     * Arrow Down
+     * Arrow Left
+     * Arrow Right
  * Animals
      * Feather
      * Volf head

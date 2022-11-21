@@ -29,6 +29,8 @@ namespace MoreMapIcons
             _icons.Add("treeThree", new TreeThreeIcon());
             _icons.Add("apple", new AppleIcon());
             _icons.Add("pear", new PearIcon());
+            _icons.Add("cherry", new CherryIcon());
+            _icons.Add("strawberry", new StrawberryIcon());
             _icons.Add("mushroom", new MushroomIcon());
             // Misceleneous icons
             _icons.Add("skull", new SkullIcon());
