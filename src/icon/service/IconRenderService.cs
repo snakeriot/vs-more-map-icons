@@ -3,9 +3,22 @@ using System;
 
 namespace MoreMapIcons
 {
+    /**
+     * Service that renders icon, is needed to encapsulate all boilerplate code which perpares icon for rendering.
+     **/
     public class IconRenderService
     {
-
+        /**
+        * Service that renders icon, is needed to encapsulate all boilerplate code which perpares icon for rendering.
+        * 
+        * @param icon - {@link Icon}
+        * @param ctx - {@link Context}
+        * @param x - float, x position of an icon
+        * @param y - float, y position of an icon
+        * @param w - float, width of an icon to render
+        * @param h - float, height of an icon to render
+        * @param rgba - double[], array which describes color and alpha chanel of the icon
+        **/
         public void Render(Icon icon, Context ctx, float x, float y, float w, float h, double[] rgba)
         {
             Pattern pattern = InitializeContext(ctx, x, y, w, h, rgba);

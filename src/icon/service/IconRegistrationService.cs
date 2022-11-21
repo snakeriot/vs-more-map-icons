@@ -5,11 +5,19 @@ using Vintagestory.GameContent;
 
 namespace MoreMapIcons
 {
+    /**
+     * Service that adds all custom icons into the game classes.
+     **/
     public class IconRegistrationService
     {
         private ICoreClientAPI _api;
         private Dictionary<string, Icon> _icons;
 
+        /**
+         * Default constructor, is needed to initialize dictionary of icons, and store api as a field.
+         *
+         * @param api {@link ICoreClientAPI}
+         **/
         public IconRegistrationService(ICoreClientAPI api)
         {
             this._api = api;
@@ -17,6 +25,9 @@ namespace MoreMapIcons
             _icons.Add("mushroom", new MushroomIcon());
         }
 
+        /**
+         * Add all new icons to the Map!
+         **/
         public void RegisterIcons()
         {
             WorldMapManager manager = _api.ModLoader.GetModSystem<WorldMapManager>();

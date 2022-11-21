@@ -2,8 +2,16 @@ using Cairo;
 
 namespace MoreMapIcons
 {
-    public abstract class Icon
+    /**
+     * Interface for all the icons.
+     **/
+    public interface Icon
     {
-        public abstract void Render(Context cr);
+        /**
+         * Icon rendering logic, only need Context for this, since it's in fact a canvas.
+         *
+         * @param context - {@link Context}
+         **/
+        void Render(Context context);
     }
 }
