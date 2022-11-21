@@ -2,10 +2,16 @@ using Cairo;
 
 namespace MoreMapIcons
 {
-    public class MushroomIcon
+    public class MushroomIcon : Icon
     {
-        public static void Render(Context ctx, int x, int y, float w, float h, double[] rgba) {
-            ctx.SetSourceRGBA(rgba);
+        public override void Render(Context cr)
+        {
+            cr.NewPath();
+            cr.MoveTo(20, 20);
+            cr.LineTo(380, 20);
+            cr.LineTo(200, 380);
+            cr.LineTo(20, 20);
+            cr.ClosePath();
         }
     }
 }

@@ -1,8 +1,6 @@
-using System.Linq;
 using Vintagestory.API.Client;
 using Vintagestory.API.Common;
 using Vintagestory.API.Server;
-using Vintagestory.GameContent;
 
 [assembly: ModInfo("MoreMapIcons",
     Description = "More icons for map markers.",
@@ -19,7 +17,7 @@ namespace MoreMapIcons
 
         public override void StartClientSide(ICoreClientAPI api)
         {
-            IconsRegistrationService service = new IconsRegistrationService(api);
+            IconRegistrationService service = new IconRegistrationService(api);
             api.Event.LevelFinalize += service.RegisterIcons;
         }
 
