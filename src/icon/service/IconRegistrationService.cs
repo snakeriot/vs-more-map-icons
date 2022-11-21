@@ -27,6 +27,7 @@ namespace MoreMapIcons
             _icons.Add("treeTwo", new TreeTwoIcon());
             _icons.Add("treeThree", new TreeThreeIcon());
             _icons.Add("apple", new AppleIcon());
+            _icons.Add("pear", new PearIcon());
         }
 
         /**
