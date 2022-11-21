@@ -6,6 +6,7 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * -
  * Flora
      * Mushroom
+     * Tree (3 options)
  * Mining
      * -
  * Sybmols
@@ -22,7 +23,6 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Arrow Left
      * Arrow Right
  * Flora
-     * Tree
      * Apple
      * Pear
      * Bush
