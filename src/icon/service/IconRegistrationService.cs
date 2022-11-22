@@ -27,11 +27,14 @@ namespace MoreMapIcons
             _icons.Add("treeOne", new TreeOneIcon());
             _icons.Add("treeTwo", new TreeTwoIcon());
             _icons.Add("treeThree", new TreeThreeIcon());
+            _icons.Add("flowerOne", new FlowerOneIcon());
+            _icons.Add("flowerTwo", new FlowerTwoIcon());
             _icons.Add("apple", new AppleIcon());
             _icons.Add("pear", new PearIcon());
             _icons.Add("cherry", new CherryIcon());
             _icons.Add("strawberry", new StrawberryIcon());
             _icons.Add("mushroom", new MushroomIcon());
+            _icons.Add("reeds", new ReedsIcon());
             // Misceleneous icons
             _icons.Add("skull", new SkullIcon());
         }

@@ -2,8 +2,6 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
 
 # Done
 
-* Navigational
-     * -
  * Flora
      * Bush
      * Tree (3 variants)
@@ -12,21 +10,13 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Cherry
      * Strawberry
      * Mushroom
- * Mining
-     * -
- * Sybmols
-     * -
- * Animals
-     * -
- * Items
-     * -
+     * Reed
+     * Flower (2 variants)
  * Misceleneous
      * Skull 
 
 # To Do
  
- * Flora
-     * Flower (variants)
  * Mining
      * Ingots
      * Crystals
@@ -49,3 +39,4 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Potion flask
  * Landmarks
      * Mountain
+     * Campfire
