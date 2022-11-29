@@ -14,6 +14,13 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Flower (2 variants)
  * Misceleneous
      * Skull 
+ * Sybmols
+     * Exclamation mark
+     * Question mark
+     * Arrow Up
+     * Arrow Down
+     * Arrow Left
+     * Arrow Right
 
 # To Do
  
@@ -22,13 +29,6 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Crystals
      * Rocks
      * Sand
- * Sybmols
-     * Exclamation mark
-     * Question mark
-     * Arrow Up
-     * Arrow Down
-     * Arrow Left
-     * Arrow Right
  * Animals
      * Feather
      * Volf head

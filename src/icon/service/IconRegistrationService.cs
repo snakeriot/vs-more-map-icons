@@ -37,6 +37,13 @@ namespace MoreMapIcons
             _icons.Add("reeds", new ReedsIcon());
             // Misceleneous icons
             _icons.Add("skull", new SkullIcon());
+            // Symbol icons
+            _icons.Add("arrowUp", new ArrowUpIcon());
+            _icons.Add("arrowRight", new ArrowRightIcon());
+            _icons.Add("arrowDown", new ArrowDownIcon());
+            _icons.Add("arrowLeft", new ArrowLeftIcon());
+            _icons.Add("exclamationMark", new ExclamationIcon());
+            _icons.Add("questionMark", new QuestionIcon());
         }
 
         /**
