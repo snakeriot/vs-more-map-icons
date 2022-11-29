@@ -12,6 +12,10 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Mushroom
      * Reed
      * Flower (2 variants)
+ * Fauna
+     * Chicken
+     * Wolf
+     * Goat
  * Misceleneous
      * Skull 
  * Sybmols
@@ -29,9 +33,6 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Crystals
      * Rocks
      * Sand
- * Animals
-     * Feather
-     * Volf head
  * Items
      * Anvil
      * Chest

@@ -35,6 +35,10 @@ namespace MoreMapIcons
             _icons.Add("strawberry", new StrawberryIcon());
             _icons.Add("mushroom", new MushroomIcon());
             _icons.Add("reeds", new ReedsIcon());
+            // Fauna
+            _icons.Add("goat", new GoatIcon());
+            _icons.Add("wolf", new WolfIcon());
+            _icons.Add("chicken", new ChickenIcon());
             // Misceleneous icons
             _icons.Add("skull", new SkullIcon());
             // Symbol icons
