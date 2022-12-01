@@ -39,6 +39,14 @@ namespace MoreMapIcons
             _icons.Add("goat", new GoatIcon());
             _icons.Add("wolf", new WolfIcon());
             _icons.Add("chicken", new ChickenIcon());
+            // Mining
+            _icons.Add("coal", new CoalIcon());
+            _icons.Add("crystal", new CrystalIcon());
+            _icons.Add("diamond", new DiamondIcon());
+            _icons.Add("powder", new PowderIcon());
+            _icons.Add("salt", new SaltIcon());
+            _icons.Add("stone", new StoneIcon());
+            _icons.Add("stonePyle", new StonePileIcon());
             // Misceleneous icons
             _icons.Add("skull", new SkullIcon());
             _icons.Add("knifeAndFork", new KnifeAndForkIcon());

@@ -16,6 +16,13 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Chicken
      * Wolf
      * Goat
+ * Mining
+     * Coal
+     * Crystal
+     * Diamond
+     * Ingots
+     * Rocks
+     * Sand
  * Misceleneous
      * Skull 
      * Knife and fork
@@ -35,11 +42,6 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
 
 # To Do
  
- * Mining
-     * Ingots
-     * Crystals
-     * Rocks
-     * Sand
  * Items
      * Anvil
      * Chest
