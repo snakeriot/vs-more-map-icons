@@ -1,0 +1,151 @@
+public void Drawingots_svg(Context cr, int x, int y, float width, float height, double[] rgba) {
+	ImageSurface temp_surface;
+	Context old_cr;
+	Pattern pattern = null;
+	Matrix matrix = cr.Matrix;
+	
+	cr.Save();
+	float w = 48;
+	float h = 48;
+	float scale = Math.Min(width / w, height / h);
+	matrix.Translate(x + Math.Max(0, (width - w * scale) / 2), y + Math.Max(0, (height - h * scale) / 2));
+	matrix.Scale(scale, scale);
+	cr.Matrix = matrix;
+
+	cr.Operator = Operator.Over;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.Paint();
+
+	cr.Operator = Operator.Over;
+	cr.LineWidth = 4;
+	cr.MiterLimit = 4;
+	cr.LineCap = LineCap.Butt;
+	cr.LineJoin = LineJoin.LINE_JOIN_ROUND;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.NewPath();
+	cr.MoveTo(22.21875, 7.378906);
+	cr.LineTo(33.886719, 16.621094);
+	cr.LineTo(36.179688, 24);
+	cr.LineTo(25.261719, 26.085938);
+	cr.LineTo(12.589844, 14.53125);
+	cr.LineTo(15.28125, 9);
+	cr.ClosePath();
+	cr.MoveTo(22.21875, 7.378906);
+	cr.Tolerance = 0.1;
+	cr.Antialias = Antialias.Default;
+	cr.StrokePreserve();
+	if (pattern!= null) pattern.Dispose();
+
+	cr.Operator = Operator.Over;
+	cr.LineWidth = 4;
+	cr.MiterLimit = 4;
+	cr.LineCap = LineCap.LINE_CAP_ROUND;
+	cr.LineJoin = LineJoin.Miter;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.NewPath();
+	cr.MoveTo(15.28125, 9);
+	cr.LineTo(26.484375, 18.601563);
+	cr.Tolerance = 0.1;
+	cr.Antialias = Antialias.Default;
+	cr.StrokePreserve();
+	if (pattern!= null) pattern.Dispose();
+
+	cr.Operator = Operator.Over;
+	cr.LineWidth = 4;
+	cr.MiterLimit = 4;
+	cr.LineCap = LineCap.LINE_CAP_ROUND;
+	cr.LineJoin = LineJoin.LINE_JOIN_ROUND;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.NewPath();
+	cr.MoveTo(25.261719, 26.085938);
+	cr.LineTo(26.488281, 18.132813);
+	cr.LineTo(33.886719, 16.621094);
+	cr.Tolerance = 0.1;
+	cr.Antialias = Antialias.Default;
+	cr.StrokePreserve();
+	if (pattern!= null) pattern.Dispose();
+
+	cr.Operator = Operator.Over;
+	cr.LineWidth = 4;
+	cr.MiterLimit = 4;
+	cr.LineCap = LineCap.LINE_CAP_ROUND;
+	cr.LineJoin = LineJoin.LINE_JOIN_ROUND;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.NewPath();
+	cr.MoveTo(24.992188, 31.023438);
+	cr.LineTo(27.277344, 38.101563);
+	cr.LineTo(15.601563, 40.378906);
+	cr.LineTo(4, 29.015625);
+	cr.LineTo(6.570313, 22.625);
+	cr.LineTo(12.027344, 21.351563);
+	cr.Tolerance = 0.1;
+	cr.Antialias = Antialias.Default;
+	cr.StrokePreserve();
+	if (pattern!= null) pattern.Dispose();
+
+	cr.Operator = Operator.Over;
+	cr.LineWidth = 4;
+	cr.MiterLimit = 4;
+	cr.LineCap = LineCap.LINE_CAP_ROUND;
+	cr.LineJoin = LineJoin.Miter;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.NewPath();
+	cr.MoveTo(6.570313, 22.625);
+	cr.LineTo(17.285156, 32.757813);
+	cr.Tolerance = 0.1;
+	cr.Antialias = Antialias.Default;
+	cr.StrokePreserve();
+	if (pattern!= null) pattern.Dispose();
+
+	cr.Operator = Operator.Over;
+	cr.LineWidth = 4;
+	cr.MiterLimit = 4;
+	cr.LineCap = LineCap.LINE_CAP_ROUND;
+	cr.LineJoin = LineJoin.LINE_JOIN_ROUND;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.NewPath();
+	cr.MoveTo(15.601563, 39.863281);
+	cr.LineTo(17.488281, 32.132813);
+	cr.LineTo(24.992188, 31.042969);
+	cr.Tolerance = 0.1;
+	cr.Antialias = Antialias.Default;
+	cr.StrokePreserve();
+	if (pattern!= null) pattern.Dispose();
+
+	cr.Operator = Operator.Over;
+	cr.LineWidth = 4;
+	cr.MiterLimit = 4;
+	cr.LineCap = LineCap.Butt;
+	cr.LineJoin = LineJoin.LINE_JOIN_ROUND;
+	pattern = new SolidPattern(rgba[0], rgba[1], rgba[2], rgba[3]);
+	cr.SetSource(pattern);
+	
+	cr.NewPath();
+	cr.MoveTo(34.886719, 29.609375);
+	cr.LineTo(34, 36.800781);
+	cr.LineTo(43.234375, 35);
+	cr.LineTo(41.28125, 28.1875);
+	cr.ClosePath();
+	cr.MoveTo(34.886719, 29.609375);
+	cr.Tolerance = 0.1;
+	cr.Antialias = Antialias.Default;
+	cr.StrokePreserve();
+	if (pattern!= null) pattern.Dispose();
+
+	cr.Restore();
+}
+

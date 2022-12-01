@@ -3,7 +3,7 @@ using Cairo;
 namespace MoreMapIcons
 {
     /**
-     * Chicken up icon.
+     * Chicken icon.
      **/
     public class ChickenIcon : Icon
     {

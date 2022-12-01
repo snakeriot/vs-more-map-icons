@@ -41,6 +41,7 @@ namespace MoreMapIcons
             _icons.Add("chicken", new ChickenIcon());
             // Misceleneous icons
             _icons.Add("skull", new SkullIcon());
+            _icons.Add("knifeAndFork", new KnifeAndForkIcon());
             // Symbol icons
             _icons.Add("arrowUp", new ArrowUpIcon());
             _icons.Add("arrowRight", new ArrowRightIcon());
@@ -48,6 +49,12 @@ namespace MoreMapIcons
             _icons.Add("arrowLeft", new ArrowLeftIcon());
             _icons.Add("exclamationMark", new ExclamationIcon());
             _icons.Add("questionMark", new QuestionIcon());
+            // Landmarks
+            _icons.Add("campfire", new CampfireIcon());
+            _icons.Add("castleRuins", new CastleRuinIcon());
+            _icons.Add("mountain", new MountainIcon());
+            _icons.Add("swordInStone", new SwordInStoneIcon());
+            _icons.Add("thombstone", new ThombstoneIcon());
         }
 
         /**

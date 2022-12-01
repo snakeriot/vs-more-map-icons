@@ -3,7 +3,7 @@ using Cairo;
 namespace MoreMapIcons
 {
     /**
-     * Wolf up icon.
+     * Wolf icon.
      **/
     public class WolfIcon : Icon
     {

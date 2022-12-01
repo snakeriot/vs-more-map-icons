@@ -18,6 +18,7 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Goat
  * Misceleneous
      * Skull 
+     * Knife and fork
  * Sybmols
      * Exclamation mark
      * Question mark
@@ -25,6 +26,12 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Arrow Down
      * Arrow Left
      * Arrow Right
+ * Landmarks
+     * Mountain
+     * Campfire
+     * Sword in stone
+     * Thombstone
+     * Castle ruins
 
 # To Do
  
@@ -38,6 +45,3 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Chest
      * Fork and spoon
      * Potion flask
- * Landmarks
-     * Mountain
-     * Campfire
