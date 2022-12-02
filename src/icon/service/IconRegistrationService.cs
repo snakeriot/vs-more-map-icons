@@ -22,6 +22,11 @@ namespace MoreMapIcons
         {
             this._api = api;
             _icons = new Dictionary<string, Icon>();
+            // Items
+            _icons.Add("anvil", new AnvilIcon());
+            _icons.Add("chest", new ChestIcon());
+            _icons.Add("potion", new PotionIcon());
+            _icons.Add("ingots", new IngotsIcon());
             // Flora icons
             _icons.Add("bush", new BushIcon());
             _icons.Add("treeOne", new TreeOneIcon());

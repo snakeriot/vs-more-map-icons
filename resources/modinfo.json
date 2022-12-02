@@ -2,7 +2,7 @@
 	"type": "code",
 	"name": "More Map Icons",
 	"modid": "moreicons",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description" : "More icons for map markers.",
 	"website": "https://github.com/snakeriot/vs-more-map-icons.git",
 	"authors": [ "dKosher" ],

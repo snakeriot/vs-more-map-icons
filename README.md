@@ -1,7 +1,5 @@
 There are not a lot of vanilla icons in this game. So I've decided to add more :)
 
-# Done
-
  * Flora
      * Bush
      * Tree (3 variants)
@@ -20,9 +18,10 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Coal
      * Crystal
      * Diamond
-     * Ingots
-     * Rocks
-     * Sand
+     * Powder
+     * Salt
+     * Stone
+     * Stone pile
  * Misceleneous
      * Skull 
      * Knife and fork
@@ -39,11 +38,8 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Sword in stone
      * Thombstone
      * Castle ruins
-
-# To Do
- 
  * Items
      * Anvil
      * Chest
-     * Fork and spoon
-     * Potion flask
+     * Ingots
+     * Potion
