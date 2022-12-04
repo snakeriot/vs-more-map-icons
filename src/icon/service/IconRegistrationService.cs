@@ -68,6 +68,18 @@ namespace MoreMapIcons
             _icons.Add("mountain", new MountainIcon());
             _icons.Add("swordInStone", new SwordInStoneIcon());
             _icons.Add("thombstone", new ThombstoneIcon());
+            // Chemistry
+            _icons.Add("argentum", new ArgentumIcon());
+            _icons.Add("aurum", new AurumIcon());
+            _icons.Add("bismuth", new BismuthIcon());
+            _icons.Add("cuprum", new CuprumIcon());
+            _icons.Add("ferrum", new FerrumIcon());
+            _icons.Add("platinum", new PlatinumIcon());
+            _icons.Add("plumbum", new PlumbumIcon());
+            _icons.Add("rhodium", new RhodiumIcon());
+            _icons.Add("sulfur", new SulfurIcon());
+            _icons.Add("uranium", new UraniumIcon());
+            _icons.Add("zink", new ZinkIcon());
         }
 
         /**

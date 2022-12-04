@@ -43,3 +43,16 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Chest
      * Ingots
      * Potion
+ * Chemistry
+     * Argentum (silver)
+     * Aurum (gold)
+     * Bistuth
+     * Cuprum (copper)
+     * Ferrum (iron)
+     * Platinum
+     * Plumbum (lead)
+     * Rhodium
+     * Stannum (tin)
+     * Sulfur
+     * Uranium
+     * Zink
