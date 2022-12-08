@@ -80,6 +80,16 @@ namespace MoreMapIcons
             _icons.Add("sulfur", new SulfurIcon());
             _icons.Add("uranium", new UraniumIcon());
             _icons.Add("zink", new ZinkIcon());
+            // Traders
+            _icons.Add("agricultureTrader", new AgricultureTraderIcon());
+            _icons.Add("artisanTrader", new ArtisanTraderIcon());
+            _icons.Add("bmatTrader", new BmatTraderIcon());
+            _icons.Add("clothingTrader", new ClothingTraderIcon());
+            _icons.Add("commoditiesTrader", new CommoditiesTraderIcon());
+            _icons.Add("furnitureTrader", new FurnitureTraderIcon());
+            _icons.Add("luxuriesTrader", new LuxuriesTraderIcon());
+            _icons.Add("survivalGoodsTrader", new SurvivalGoodsTraderIcon());
+            _icons.Add("treasureTrader", new TreasureTraderIcon());
         }
 
         /**
