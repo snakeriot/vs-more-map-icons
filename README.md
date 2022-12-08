@@ -56,3 +56,34 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Sulfur
      * Uranium
      * Zink
+
+TODO:
+ * Traders
+     * Treasure Hunter - stack of coins/gears
+     * Luxuries - Jeweled ring
+     * Commodities - Sack [flour or seed, think burlap sack]
+     * Agroculture - Sprout [tiny stem with two leaves]
+     * Artist - Paintbursh or Painting
+     * Clothing - Shirt, Pants, or Spool & Sewing Needle
+     * Building Matterials - Birck Block [Maybe a '?' block ala Super Mario]
+     * Survival Goods - Bread Loaf
+     * Furniture - Bed or Lantern
+
+ * Sybmols:
+     * Square
+     * Triangle
+     * Pentagon
+     * Hexagon
+     * Octagon
+     * 6 Pointed Star
+     * *
+     * #
+     * %
+     * +
+     * ~
+ * Platonic Solids [D&D Dice shapes]:
+     * Tetrahedron d4
+     * Hexahedron / Cube d6
+     * Octahedron d8
+     * Dodecahedron d12
+     * Icosahedron d20
