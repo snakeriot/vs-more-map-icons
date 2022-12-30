@@ -74,7 +74,7 @@ namespace MoreMapIcons
             _icons.Add("thombstone", new ThombstoneIcon());
             _icons.Add("windmill", new WindMillIcon());
             // Chemistry
-            _icons.Add("aluminium", new AluminiumIcon());
+            _icons.Add("aluminum", new AluminiumIcon());
             _icons.Add("argentum", new ArgentumIcon());
             _icons.Add("aurum", new AurumIcon());
             _icons.Add("bismuth", new BismuthIcon());

@@ -49,7 +49,7 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Ingots
      * Potion
  * Chemistry
-     * Alluminium
+     * Aluminum
      * Argentum (silver)
      * Aurum (gold)
      * Bistuth
