@@ -74,12 +74,12 @@ namespace MoreMapIcons
             _icons.Add("thombstone", new ThombstoneIcon());
             _icons.Add("windmill", new WindMillIcon());
             // Chemistry
-            _icons.Add("aluminum", new AluminiumIcon());
+            _icons.Add("aluminum", new AluminumIcon());
             _icons.Add("argentum", new ArgentumIcon());
             _icons.Add("aurum", new AurumIcon());
             _icons.Add("bismuth", new BismuthIcon());
             _icons.Add("boron", new BoronIcon());
-            _icons.Add("cromium", new CromiumIcon());
+            _icons.Add("chromium ", new ChromiumIcon());
             _icons.Add("cuprum", new CuprumIcon());
             _icons.Add("ferrum", new FerrumIcon());
             _icons.Add("fluonite", new FluoniteIcon());
