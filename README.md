@@ -11,9 +11,13 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Reed
      * Flower (2 variants)
  * Fauna
+     * Bear
+     * Boar
      * Chicken
-     * Wolf
      * Goat
+     * Horse
+     * Spider
+     * Wolf
  * Mining
      * Coal
      * Crystal
@@ -33,27 +37,38 @@ There are not a lot of vanilla icons in this game. So I've decided to add more :
      * Arrow Left
      * Arrow Right
  * Landmarks
-     * Mountain
      * Campfire
+     * Castle ruins
+     * Mountain
      * Sword in stone
      * Thombstone
-     * Castle ruins
+     * Windmill
  * Items
      * Anvil
      * Chest
      * Ingots
      * Potion
  * Chemistry
+     * Alluminium
      * Argentum (silver)
      * Aurum (gold)
      * Bistuth
+     * Boron
+     * Cromium
      * Cuprum (copper)
      * Ferrum (iron)
+     * Fluonite
+     * Manganese
+     * Meteoric Ferrum
+     * Phosphorus
      * Platinum
      * Plumbum (lead)
+     * Potassium
      * Rhodium
+     * Sodium
      * Stannum (tin)
      * Sulfur
+     * Titanium
      * Uranium
      * Zink
  * Traders

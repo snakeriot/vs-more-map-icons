@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="5.9651515"
-     inkscape:cx="73.426467"
-     inkscape:cy="69.067818"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="50.972036"
+     inkscape:cy="82.503574"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2">
@@ -55,7 +55,8 @@
     <g
        aria-label="Pt"
        id="text114"
-       style="font-size:22.5778px;stroke-width:0.264583">
+       style="font-size:22.5778px;stroke-width:0.264583"
+       transform="matrix(1.5589693,0,0,1.5589693,-10.180862,-9.2811481)">
       <path
          d="m 11.956291,7.8754162 q 3.115736,0 4.538138,1.3546681 1.444979,1.3320907 1.444979,3.6801817 0,1.422401 -0.587023,2.641602 -0.587023,1.219202 -1.964268,1.964269 -1.354668,0.745068 -3.70276,0.745068 H 10.2178 v 5.734761 H 6.8085524 V 7.8754162 Z M 11.775669,10.675064 H 10.2178 v 4.786493 h 1.12889 q 1.44498,0 2.280358,-0.564445 0.857957,-0.587023 0.857957,-1.873957 0,-2.348091 -2.709336,-2.348091 z"
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"

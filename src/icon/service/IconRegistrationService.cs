@@ -41,9 +41,13 @@ namespace MoreMapIcons
             _icons.Add("mushroom", new MushroomIcon());
             _icons.Add("reeds", new ReedsIcon());
             // Fauna
-            _icons.Add("goat", new GoatIcon());
-            _icons.Add("wolf", new WolfIcon());
+            _icons.Add("boar", new BoarIcon());
+            _icons.Add("bear", new BearIcon());
             _icons.Add("chicken", new ChickenIcon());
+            _icons.Add("goat", new GoatIcon());
+            _icons.Add("horse", new HorseIcon());
+            _icons.Add("spider", new SpiderIcon());
+            _icons.Add("wolf", new WolfIcon());
             // Mining
             _icons.Add("coal", new CoalIcon());
             _icons.Add("crystal", new CrystalIcon());
@@ -68,16 +72,28 @@ namespace MoreMapIcons
             _icons.Add("mountain", new MountainIcon());
             _icons.Add("swordInStone", new SwordInStoneIcon());
             _icons.Add("thombstone", new ThombstoneIcon());
+            _icons.Add("windmill", new WindMillIcon());
             // Chemistry
+            _icons.Add("aluminium", new AluminiumIcon());
             _icons.Add("argentum", new ArgentumIcon());
             _icons.Add("aurum", new AurumIcon());
             _icons.Add("bismuth", new BismuthIcon());
+            _icons.Add("boron", new BoronIcon());
+            _icons.Add("cromium", new CromiumIcon());
             _icons.Add("cuprum", new CuprumIcon());
             _icons.Add("ferrum", new FerrumIcon());
+            _icons.Add("fluonite", new FluoniteIcon());
+            _icons.Add("manganese", new ManganeseIcon());
+            _icons.Add("meteoricFerrum", new MeteoricFerrumIcon());
+            _icons.Add("phosphorus", new PhosphorusIcon());
             _icons.Add("platinum", new PlatinumIcon());
             _icons.Add("plumbum", new PlumbumIcon());
+            _icons.Add("potassium", new PotassiumIcon());
             _icons.Add("rhodium", new RhodiumIcon());
+            _icons.Add("sodium", new SodiumIcon());
             _icons.Add("sulfur", new SulfurIcon());
+            _icons.Add("tin", new TinIcon());
+            _icons.Add("titanium", new TitaniumIcon());
             _icons.Add("uranium", new UraniumIcon());
             _icons.Add("zink", new ZinkIcon());
             // Traders

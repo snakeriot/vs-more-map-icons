@@ -9,11 +9,11 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="ferrum.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -26,44 +26,34 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="5.9651515"
-     inkscape:cx="73.426467"
-     inkscape:cy="69.067818"
+     inkscape:cx="62.529845"
+     inkscape:cy="55.656591"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
-    <sodipodi:guide
+     inkscape:current-layer="layer2"><sodipodi:guide
        position="16.41129,17.943279"
        orientation="1,0"
        id="guide274"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="-1.2419355,17.411021"
        orientation="0,-1"
        id="guide276"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
-  <defs
-     id="defs2" />
-  <g
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs2" /><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline">
-    <g
+     style="display:inline"><g
        aria-label="Fe"
-       id="text114"
-       style="font-size:22.5778px;stroke-width:0.264583">
-      <path
+       id="text114-2"
+       style="font-size:22.5778px;stroke-width:0.264583"
+       transform="matrix(1.1763865,0,0,1.2527884,-2.6491389,-3.9159591)"><path
          d="M 9.2921204,23.995966 H 5.9280281 V 7.8754162 H 15.162349 V 10.675064 H 9.2921204 v 4.154315 h 5.4638276 v 2.799647 H 9.2921204 Z"
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-         id="path168" />
-      <path
+         id="path168-2" /><path
          d="m 23.132307,11.442709 q 2.551292,0 4.041426,1.467557 1.490135,1.444979 1.490135,4.131737 v 1.625602 h -7.947386 q 0.04516,1.422401 0.835379,2.235202 0.812801,0.812801 2.235202,0.812801 1.174046,0 2.144891,-0.225778 0.993424,-0.248356 2.032002,-0.745067 v 2.596447 q -0.925689,0.451556 -1.919113,0.654756 -0.993423,0.225778 -2.415824,0.225778 -1.85138,0 -3.273781,-0.677334 -1.422402,-0.699912 -2.235203,-2.077158 -0.8128,-1.399823 -0.8128,-3.544714 0,-2.144892 0.722489,-3.589871 0.745068,-1.444979 2.05458,-2.167469 1.309512,-0.722489 3.048003,-0.722489 z m 0.02258,2.393247 q -0.993423,0 -1.625602,0.632178 -0.632178,0.632178 -0.745067,1.964269 h 4.71876 q -0.02258,-1.106313 -0.6096,-1.85138 -0.564445,-0.745067 -1.738491,-0.745067 z"
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-         id="path170" />
-    </g>
-  </g>
-</svg>
+         id="path170-5" /></g></g></svg>

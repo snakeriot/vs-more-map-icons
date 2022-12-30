@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="aluminium.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="61.87768"
+     inkscape:cy="56.661937"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"><sodipodi:guide
+       position="16.41129,17.943279"
+       orientation="1,0"
+       id="guide274"
+       inkscape:locked="false" /><sodipodi:guide
+       position="-1.2419355,17.411021"
+       orientation="0,-1"
+       id="guide276"
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs2" /><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"><g
+       aria-label="Al"
+       id="text21869"
+       style="font-weight:bold;font-size:22.5778px;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.123"
+       transform="matrix(1.1742208,0,0,1.1742208,11.851485,3.9733552)"><path
+         d="M 5.182395,19.257254 4.0083493,15.419028 h -5.8702282 l -1.1740456,3.838226 H -6.716106 L -1.0265002,3.0689705 H 3.1503929 L 8.8625765,19.257254 Z M 3.1955485,12.551647 2.0215029,8.8037319 Q 1.9086139,8.4199093 1.7279915,7.8328865 1.5473691,7.2458636 1.3667467,6.636263 1.1861242,6.0266624 1.0732352,5.5751064 0.96034624,6.0266624 0.75714603,6.7039964 0.57652362,7.3587527 0.39590122,7.9683533 0.23785661,8.5553761 0.14754541,8.8037319 L -1.0039224,12.551647 Z"
+         id="path21871" /><path
+         d="M 13.987749,19.257254 H 10.623657 V 2.0981251 h 3.364092 z"
+         id="path21873" /></g></g></svg>

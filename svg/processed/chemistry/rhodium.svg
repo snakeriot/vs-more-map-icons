@@ -26,11 +26,11 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="5.9651515"
-     inkscape:cx="73.426467"
+     inkscape:cx="67.894336"
      inkscape:cy="69.067818"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2">
@@ -55,7 +55,8 @@
     <g
        aria-label="Rh"
        id="text114"
-       style="font-size:22.5778px;stroke-width:0.264583">
+       style="font-size:22.5778px;stroke-width:0.264583"
+       transform="matrix(1.2864944,0,0,1.2864944,-4.8516985,-4.416713)">
       <path
          d="m 8.6260748,7.8754162 q 3.2963592,0 4.8542272,1.1966235 1.580446,1.1966233 1.580446,3.6350263 0,1.106312 -0.428978,1.94169 -0.406401,0.812801 -1.106312,1.399824 -0.677334,0.564445 -1.467557,0.92569 l 4.741338,7.021696 H 13.006168 L 9.167942,17.809649 H 7.3391402 v 6.186317 H 3.9298922 V 7.8754162 Z M 8.377719,10.675064 H 7.3391402 v 4.357515 h 1.1063122 q 1.6933346,0 2.4158246,-0.564445 0.745068,-0.564445 0.745068,-1.670757 0,-1.151468 -0.790224,-1.625602 -0.790223,-0.496711 -2.438402,-0.496711 z"
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
