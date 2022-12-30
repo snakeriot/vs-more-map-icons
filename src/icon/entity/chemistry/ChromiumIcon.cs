@@ -3,9 +3,9 @@ using Cairo;
 namespace MoreMapIcons
 {
     /**
-     * Cromium icon.
+     * Chromium icon.
      **/
-    public class CromiumIcon : Icon
+    public class ChromiumIcon : Icon
     {
         public float getHeight()
         {

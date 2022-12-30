@@ -3,9 +3,9 @@ using Cairo;
 namespace MoreMapIcons
 {
     /**
-     * Fluonite icon.
+     * Fluorite icon.
      **/
-    public class FluoniteIcon : Icon
+    public class FluoriteIcon : Icon
     {
         public float getHeight()
         {

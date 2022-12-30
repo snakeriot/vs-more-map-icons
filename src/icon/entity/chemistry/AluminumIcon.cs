@@ -3,9 +3,9 @@ using Cairo;
 namespace MoreMapIcons
 {
     /**
-     * Aluminium icon.
+     * Aluminum icon.
      **/
-    public class AluminiumIcon : Icon
+    public class AluminumIcon : Icon
     {
         public float getHeight()
         {

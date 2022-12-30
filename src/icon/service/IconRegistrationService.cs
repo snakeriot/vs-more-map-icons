@@ -82,7 +82,7 @@ namespace MoreMapIcons
             _icons.Add("chromium ", new ChromiumIcon());
             _icons.Add("cuprum", new CuprumIcon());
             _icons.Add("ferrum", new FerrumIcon());
-            _icons.Add("fluonite", new FluoniteIcon());
+            _icons.Add("fluorite", new FluoriteIcon());
             _icons.Add("manganese", new ManganeseIcon());
             _icons.Add("meteoricFerrum", new MeteoricFerrumIcon());
             _icons.Add("phosphorus", new PhosphorusIcon());
