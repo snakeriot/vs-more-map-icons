@@ -13,10 +13,5 @@ namespace MoreMapIcons
      **/
     public class MoreMapIconsMod : ModSystem
     {
-        public override void StartClientSide(ICoreClientAPI api)
-        {
-            IconRegistrationService service = new IconRegistrationService(api);
-            api.Event.LevelFinalize += service.RegisterIcons;
-        }
     }
 }
