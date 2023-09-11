@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="368.64pt"
+    height="368.64pt"
+    viewBox="0 0 368.64 368.64">
+<defs/>
+<g id="group0" transform="matrix(0.678092607537757 0 0 0.678092607537757 10.7281486676294 10.7281106885772)" fill="none">
+  <g id="group1" fill="none">
+   <path id="shape0" transform="translate(126.417, 275.982)" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M0 5.68434e-14L0 76.002C0 125.162 27.385 167.902 67.725 189.855C90.293 202.136 111.413 217.848 129.581 236.016L129.583 236.018L129.585 236.016C147.95 217.651 168.628 202.269 191.441 189.855C231.781 167.902 259.166 125.161 259.166 76.002L259.166 0Z" sodipodi:nodetypes="cccccccccc"/>
+  </g>
+ </g><g id="group2" transform="matrix(0.678092607537757 0 0 0.678092607537757 10.7281486676294 10.7281106885772)" fill="none">
+  <g id="group3" fill="none">
+   <path id="shape1" transform="translate(109.623075735811, 0.000536156138860437)" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M292.671 226.609C285.937 163.819 239.778 113.027 179.643 99.1285C186.472 89.9815 194.932 80.2535 204.966 71.5925C211.433 66.0105 218.551 60.8725 226.311 56.6245C231.596 53.7315 233.972 47.3975 231.876 41.7485L219.325 7.92846C216.657 0.739464 208.062 -2.22054 201.523 1.82646C186.868 10.8955 163.021 29.5875 147.251 61.8545C142.38 71.8205 138.276 83.0685 135.458 95.7465C64.4159 100.956 7.59992 156.524 0.0829243 226.611C-0.825076 235.081 5.84092 242.484 14.3279 242.484L278.426 242.484C286.968 242.482 293.578 235.066 292.671 226.609Z" sodipodi:nodetypes="ccccccccccccc"/>
+  </g>
+ </g>
+</svg>

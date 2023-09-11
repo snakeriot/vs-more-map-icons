@@ -9,7 +9,6 @@
         "mkdir -p mods;",
         "mkdir mods/${workspaceFolderBasename};",
         "cp -r resources/* mods/${workspaceFolderBasename};",
-        "cp -r bin/Debug/net48/* mods/${workspaceFolderBasename};",
         "cp -r modicon.png mods/${workspaceFolderBasename};"
       ],
       "presentation": {

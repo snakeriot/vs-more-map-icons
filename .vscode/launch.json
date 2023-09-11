@@ -10,7 +10,6 @@
 		"args": [
 			"--playStyle" , "creativebuilding",
 			"--openWorld" , "runes test world",
-			"--addModPath", "${workspaceFolder}/bin/Debug/net48",
 			"--addOrigin" , "${workspaceFolder}/resources/assets"
 		],
 		"console": "internalConsole",
