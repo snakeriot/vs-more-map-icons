@@ -10,6 +10,7 @@
 	"game:wpSuggestion-fluorite": "Фтор",
 	"game:wpSuggestion-manganese": "Марганець",
 	"game:wpSuggestion-meteoricFerrum": "Метеоритне залізо",
+	"game:wpSuggestion-nickel": "Нікель",
 	"game:wpSuggestion-phosphorus": "Фосфор",
 	"game:wpSuggestion-platinum": "Платина",
 	"game:wpSuggestion-plumbum": "Свинець",
@@ -21,7 +22,7 @@
 	"game:wpSuggestion-titanium": "Титан",
 	"game:wpSuggestion-uranium": "Уран",
 	"game:wpSuggestion-zink": "Цинк",
-
+  
 	"game:wpSuggestion-bear": "Ведмеді",
 	"game:wpSuggestion-boar": "Кабани",
 	"game:wpSuggestion-chicken": "Кури",
@@ -29,22 +30,27 @@
 	"game:wpSuggestion-horse": "Коні",
 	"game:wpSuggestion-spider": "Павуки",
 	"game:wpSuggestion-wolf": "Вовки",
-
+  
 	"game:wpSuggestion-acorn": "Дуб",
-	"game:wpSuggestion-apple": "Яблуня",
-	"game:wpSuggestion-beetroot": "Ріпа",
-	"game:wpSuggestion-bush": "Якісь кущі",
+	"game:wpSuggestion-apple": "Яблуко",
+	"game:wpSuggestion-beetroot": "Буряк",
+	"game:wpSuggestion-berry": "Ягоди",
+	"game:wpSuggestion-blueberry": "Чорниця",
+	"game:wpSuggestion-bush": "Кущі",
 	"game:wpSuggestion-cabbage": "Капуста",
 	"game:wpSuggestion-carrot": "Морква",
 	"game:wpSuggestion-carrot-#FFFFFF": "Пастернак",
 	"game:wpSuggestion-cherry": "Вишня",
+	"game:wpSuggestion-cranberry": "Журавлина",
 	"game:wpSuggestion-flower-1": "Квіти",
 	"game:wpSuggestion-flower-2": "Квіти",
-	"game:wpSuggestion-hollow-tree": "Дупло",
+	"game:wpSuggestion-fruit-tree": "Фруктове дерево",
+	"game:wpSuggestion-hollow-tree": "Порожній стовбур",
 	"game:wpSuggestion-mushroom": "Гриби",
 	"game:wpSuggestion-onion": "Цибуля",
 	"game:wpSuggestion-pear": "Груша",
 	"game:wpSuggestion-pine": "Сосни",
+	"game:wpSuggestion-poison-mushroom": "Отруйний гриб",
 	"game:wpSuggestion-pumpkin": "Гарбуз",
 	"game:wpSuggestion-reeds": "Рогоз",
 	"game:wpSuggestion-strawberry": "Ягоди",
@@ -52,12 +58,13 @@
 	"game:wpSuggestion-tree-2": "Якісь дерева",
 	"game:wpSuggestion-tree-3": "Якісь дерева",
 	"game:wpSuggestion-wheat": "Пшениця",
-	
+  
 	"game:wpSuggestion-anvil": "Ковадло",
 	"game:wpSuggestion-chest": "Зберігання",
 	"game:wpSuggestion-ingots": "Злитки",
 	"game:wpSuggestion-potion": "Алхімія",
-	
+	"game:wpSuggestion-shovel": "Копати",
+  
 	"game:wpSuggestion-barn": "Ферма",
 	"game:wpSuggestion-campfire": "Табір",
 	"game:wpSuggestion-castle-ruins": "Руїни",
@@ -66,7 +73,7 @@
 	"game:wpSuggestion-tombstone": "Покойся З Миром :D",
 	"game:wpSuggestion-tower": "Вежа самотності",
 	"game:wpSuggestion-windmill": "Млин",
-	
+  
 	"game:wpSuggestion-coal": "Вугілля",
 	"game:wpSuggestion-coal-#080504": "Чорне вугілля",
 	"game:wpSuggestion-coal-#5D3D21": "Буре вугілля",
@@ -85,23 +92,24 @@
 	"game:wpSuggestion-diamond-#366e4f": "Перідот",
 	"game:wpSuggestion-powder": "Селітра",
 	"game:wpSuggestion-salt": "Сіль",
+	"game:wpSuggestion-soil": "Ґрунт",
 	"game:wpSuggestion-stone-pile": "Якийсь камінь",
 	"game:wpSuggestion-stone": "Чорнозьом",
 	"game:wpSuggestion-stone-#A30A35": "Торф",
 	"game:wpSuggestion-stone-#5D3D21": "Торф",
 	"game:wpSuggestion-stone-#885530": "Торф",
-	
+  
 	"game:wpSuggestion-droplet": "Смола",
 	"game:wpSuggestion-knife-and-fork": "Їдло",
 	"game:wpSuggestion-skull": "Щось Смертельно",
-	
+  
 	"game:wpSuggestion-arrow-down": "Вниз",
 	"game:wpSuggestion-arrow-left": "Вліво",
 	"game:wpSuggestion-arrow-right": "Вправо",
 	"game:wpSuggestion-arrow-up": "Нагору",
 	"game:wpSuggestion-exclamation": "!",
 	"game:wpSuggestion-question-mark": "?",
-	
+  
 	"game:wpSuggestion-agricultureTrader": "Торговець сільским господарством",
 	"game:wpSuggestion-artisanTrader": "Торговець-ремісник",
 	"game:wpSuggestion-bmatTrader": "Торговець будівельними матеріалами",
@@ -111,4 +119,5 @@
 	"game:wpSuggestion-luxuriesTrader": "Торговець предметами розкоші",
 	"game:wpSuggestion-survivalGoodsTrader": "Торговець товарами для виживання",
 	"game:wpSuggestion-treasureTrader": "Торговець скарбами"
-}
+  }
+  
