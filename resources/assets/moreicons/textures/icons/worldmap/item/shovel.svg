@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="16.000542"
-   height="15.995516"
-   viewBox="0 0 16.000542 15.995516"
+   width="512"
+   height="512"
+   viewBox="0 0 128 128"
    version="1.1"
    class="si-glyph si-glyph-shovel"
    id="svg2"
+   sodipodi:docname="shovel.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.78830687"
+     inkscape:cx="147.78509"
+     inkscape:cy="143.97946"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs2" />
   <g
      id="g2"
-     transform="translate(-0.04426817,0.03958177)">
+     transform="matrix(-7.8599751,0,0,7.8599751,127.22987,1.4489329)"
+     style="fill:#000000">
     <title
        id="title1">868</title>
     <defs
@@ -22,12 +45,14 @@
        stroke-width="1"
        fill="none"
        fill-rule="evenodd"
-       id="g1">
+       id="g1"
+       style="fill:#000000">
       <path
          d="M 15.732,2.509 13.495,0.274 C 13.064,-0.159 12.346,-0.141 11.892,0.312 11.848,0.356 11.817,0.411 11.8,0.471 11.241,2.706 11.253,3.487 11.346,3.794 l -6.265,6.265 -1.919,-1.917 -2.29,2.29 c -0.749,0.748 -1.375,3.478 -0.077,4.775 1.297,1.297 4.024,0.668 4.771,-0.079 L 7.86,12.836 5.981,10.958 12.265,4.675 c 0.342,0.077 1.158,0.057 3.27,-0.47 0.06,-0.017 0.115,-0.047 0.159,-0.091 0.453,-0.453 0.469,-1.173 0.038,-1.605 z M 15.15,3.459 C 14.047,3.77 12.765,4.046 12.481,3.992 L 12.046,3.557 c -0.062,-0.266 0.216,-1.561 0.53,-2.671 0.181,-0.134 0.413,-0.138 0.553,0.002 l 2.018,2.018 c 0.138,0.139 0.134,0.371 0.003,0.553 z"
          fill="#434343"
          class="si-glyph-fill"
-         id="path1" />
+         id="path1"
+         style="fill:#000000" />
     </g>
   </g>
 </svg>
