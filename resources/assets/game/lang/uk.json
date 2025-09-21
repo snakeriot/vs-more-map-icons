@@ -22,7 +22,7 @@
 	"game:wpSuggestion-titanium": "Титан",
 	"game:wpSuggestion-uranium": "Уран",
 	"game:wpSuggestion-zink": "Цинк",
-  
+
 	"game:wpSuggestion-bear": "Ведмеді",
 	"game:wpSuggestion-boar": "Кабани",
 	"game:wpSuggestion-chicken": "Кури",
@@ -30,7 +30,8 @@
 	"game:wpSuggestion-horse": "Коні",
 	"game:wpSuggestion-spider": "Павуки",
 	"game:wpSuggestion-wolf": "Вовки",
-  
+	"game:wpSuggestion-fish": "Риба",
+
 	"game:wpSuggestion-acorn": "Дуб",
 	"game:wpSuggestion-apple": "Яблуко",
 	"game:wpSuggestion-beetroot": "Буряк",
@@ -58,13 +59,19 @@
 	"game:wpSuggestion-tree-2": "Якісь дерева",
 	"game:wpSuggestion-tree-3": "Якісь дерева",
 	"game:wpSuggestion-wheat": "Пшениця",
-  
+	"game:wpSuggestion-coral": "Корал",
+	"game:wpSuggestion-leaf": "Рослина",
+
 	"game:wpSuggestion-anvil": "Ковадло",
 	"game:wpSuggestion-chest": "Зберігання",
 	"game:wpSuggestion-ingots": "Злитки",
 	"game:wpSuggestion-potion": "Алхімія",
-	"game:wpSuggestion-shovel": "Копати",
-  
+	"game:wpSuggestion-shovel": "Розкопки",
+	"game:wpSuggestion-shovel-#080504": "Чорнозем",
+	"game:wpSuggestion-shovel-#28417A": "Блакитна Глина",
+	"game:wpSuggestion-shovel-#ED272A": "Червона Глина",
+	"game:wpSuggestion-shovel-#706D64": "Вогнетривка Глина",
+
 	"game:wpSuggestion-barn": "Ферма",
 	"game:wpSuggestion-campfire": "Табір",
 	"game:wpSuggestion-castle-ruins": "Руїни",
@@ -73,7 +80,10 @@
 	"game:wpSuggestion-tombstone": "Покойся З Миром :D",
 	"game:wpSuggestion-tower": "Вежа самотності",
 	"game:wpSuggestion-windmill": "Млин",
-  
+	"game:wpSuggestion-boat": "Човен",
+	"game:wpSuggestion-book": "Бібліотека",
+	"game:wpSuggestion-books": "Архів",
+
 	"game:wpSuggestion-coal": "Вугілля",
 	"game:wpSuggestion-coal-#080504": "Чорне вугілля",
 	"game:wpSuggestion-coal-#5D3D21": "Буре вугілля",
@@ -98,18 +108,19 @@
 	"game:wpSuggestion-stone-#A30A35": "Торф",
 	"game:wpSuggestion-stone-#5D3D21": "Торф",
 	"game:wpSuggestion-stone-#885530": "Торф",
-  
+	"game:wpSuggestion-soil-#080504": "Чорнозем",
+
 	"game:wpSuggestion-droplet": "Смола",
 	"game:wpSuggestion-knife-and-fork": "Їдло",
 	"game:wpSuggestion-skull": "Щось Смертельно",
-  
+
 	"game:wpSuggestion-arrow-down": "Вниз",
 	"game:wpSuggestion-arrow-left": "Вліво",
 	"game:wpSuggestion-arrow-right": "Вправо",
 	"game:wpSuggestion-arrow-up": "Нагору",
 	"game:wpSuggestion-exclamation": "!",
 	"game:wpSuggestion-question-mark": "?",
-  
+
 	"game:wpSuggestion-agricultureTrader": "Торговець сільским господарством",
 	"game:wpSuggestion-artisanTrader": "Торговець-ремісник",
 	"game:wpSuggestion-bmatTrader": "Торговець будівельними матеріалами",
@@ -119,5 +130,5 @@
 	"game:wpSuggestion-luxuriesTrader": "Торговець предметами розкоші",
 	"game:wpSuggestion-survivalGoodsTrader": "Торговець товарами для виживання",
 	"game:wpSuggestion-treasureTrader": "Торговець скарбами"
-  }
+}
   

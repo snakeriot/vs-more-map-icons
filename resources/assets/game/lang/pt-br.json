@@ -30,6 +30,7 @@
   "game:wpSuggestion-horse": "Cavalos",
   "game:wpSuggestion-spider": "Aranhas",
   "game:wpSuggestion-wolf": "Lobos",
+  "game:wpSuggestion-fish": "Peixe",
 
   "game:wpSuggestion-acorn": "Carvalho",
   "game:wpSuggestion-apple": "Maçã",
@@ -58,12 +59,18 @@
   "game:wpSuggestion-tree-2": "Algumas Árvores",
   "game:wpSuggestion-tree-3": "Algumas Árvores",
   "game:wpSuggestion-wheat": "Trigo",
+  "game:wpSuggestion-coral": "Coral",
+  "game:wpSuggestion-leaf": "Plantar",
 
   "game:wpSuggestion-anvil": "Bigorna",
   "game:wpSuggestion-chest": "Armazém",
   "game:wpSuggestion-ingots": "Lingotes",
   "game:wpSuggestion-potion": "Alquimia",
   "game:wpSuggestion-shovel": "Escavar",
+  "game:wpSuggestion-shovel-#080504": "Terra Preta",
+  "game:wpSuggestion-shovel-#28417A": "Argila Azul",
+  "game:wpSuggestion-shovel-#ED272A": "Barro Vermelho",
+  "game:wpSuggestion-shovel-#706D64": "Argila Refratária",
 
   "game:wpSuggestion-barn": "Fazenda",
   "game:wpSuggestion-campfire": "Acampamento",
@@ -73,6 +80,9 @@
   "game:wpSuggestion-tombstone": "RIP",
   "game:wpSuggestion-tower": "Torre da Solidão",
   "game:wpSuggestion-windmill": "Moinho de Vento",
+  "game:wpSuggestion-boat": "Barco",
+  "game:wpSuggestion-book": "Biblioteca",
+  "game:wpSuggestion-books": "Arquivo",
 
   "game:wpSuggestion-coal": "Carvão",
   "game:wpSuggestion-coal-#080504": "Carvão Preto",
@@ -92,13 +102,14 @@
   "game:wpSuggestion-diamond-#366e4f": "Peridoto",
   "game:wpSuggestion-powder": "Salitre",
   "game:wpSuggestion-salt": "Sal",
-	"game:wpSuggestion-soil": "Solo",
+  "game:wpSuggestion-soil": "Solo",
   "game:wpSuggestion-stone-pile": "Pedras",
   "game:wpSuggestion-stone": "Terra Preta",
   "game:wpSuggestion-stone-#A30A35": "Turfa",
   "game:wpSuggestion-stone-#5D3D21": "Turfa",
   "game:wpSuggestion-stone-#885530": "Turfa",
-  
+  "game:wpSuggestion-soil-#080504": "Terra Preta",
+
   "game:wpSuggestion-droplet": "Resina",
   "game:wpSuggestion-knife-and-fork": "Comiiiiida",
   "game:wpSuggestion-skull": "Algo Mortal",
